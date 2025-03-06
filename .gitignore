@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Python virtual environment
+venv/
+env/
+*.pyc
+__pycache__/
+
+# Data files
+orderbook_data/*
+!orderbook_data/.gitkeep
+
+# Environment variables
+.env
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log* 
